@@ -1,0 +1,1 @@
+p "Edvard\nMunch"
